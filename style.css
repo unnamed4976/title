@@ -1,6 +1,6 @@
-main {
+body {
   text-align: center;
-  background: skyblue;
+  background: rgb(191, 217, 228);
   font-size: 30px;
   margin: 0;
   padding: 0;
@@ -9,4 +9,5 @@ main {
 .content {
   margin: 0;
   padding: 0;
+  margin-bottom: 30px;
 }
